@@ -1,10 +1,12 @@
 ## Overview
 
-This repository contains my solution to a Sales Effectiveness business case focused on improving an end-to-end Lead-to-Cash process.
+This repository contains my solution to a Sales Effectiveness business case completed as the final stage of a recruitment process after three interview rounds.
+
+The assessment consisted of preparing a strategic proposal and presenting it to a panel during a 20-minute presentation, followed by a discussion on the underlying reasoning behind it.
 
 Rather than approaching the problem from a purely operational perspective, I designed an analytical framework aimed at understanding how complex business systems should be analyzed before proposing solutions.
 
-The objective was not simply to recommend initiatives, but to demonstrate a structured methodology for diagnosing organizational problems and prioritizing improvements.
+The objective was not simply to recommend initiatives, but to demonstrate a structured methodology for diagnosing organizational problems, identifying root causes and prioritizing improvements.
 
 # Core Idea
 
